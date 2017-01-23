@@ -8,6 +8,8 @@
     <string name="cheese">奶酪</string>
     <string name="pirates">海盗</string>
     <string name="ninjas">忍者</string>
+    <string name="pick_time">选择时间</string>
+    <string name="pick_date">选择日期</string>
     <string-array name="countries_array">
         <item>Afghanistan</item>
         <item>Albania</item>
